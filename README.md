@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Laravel</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Expo</p>
 
 ###
 
