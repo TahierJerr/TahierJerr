@@ -1,27 +1,19 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">👋 Hey, I'm Taher! </h1>
+<h3 align="center">Backend-heavy Dev | Next.js & C++ | Building scalable SaaS & low-latency systems</h3>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 🚀 **About Me**
+- 💻 Passionate about **backend development**, **SaaS**, and **low-latency systems**  
+- 🌐 Building **custom APIs** & **high-performance applications**  
+- 🔥 Focused on **Next.js (15)**, **C++**, **Linux**, and **embedded systems**  
+- 🎮 Casual **gamer** (Rocket League, Black Ops, League of Legends)  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Taher Jerjissi from The Netherlands<br><br>- 🔭 I’m working as a Software developer at Innovatiehuis Politie Noord Nederland<br>- 📚 I'm currently learning AWS, NestJS and C++<br>- ⚡ In my free time I like to work on my company MODEX and play games</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### 🛠️ **Tech Stack**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -48,4 +40,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
+---
+
+### 🔥 **Current Projects**
+🚀 **MODEX** - Gaming PC store.
+🔒 **VPN Business** - Low-latency VPN service.
+🌍 **SaaS Platform** - API-driven store management  
+
+---
+
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahierJerr&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahierJerr&theme=radical&hide_border=true" width="48%">
+</p>
+
+---
+
+### 📫 **Let's Connect**
+- 💼 [LinkedIn](https://www.linkedin.com/in/taher-jerjissi-a8a25a29a/)  
+- 🌍 [My Website](https://modexgaming.com)  
+- 📧 Reach me via GitHub!  
+
+---
+
+🚀 **"Optimizing code like I optimize my investments!"**  
